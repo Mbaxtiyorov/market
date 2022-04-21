@@ -33,5 +33,5 @@ marketInput.addEventListener("change", () => {
 button.addEventListener('click', (e) => {
   e.preventDefault()
 
-  arrayMarket.pop()
+
 })
